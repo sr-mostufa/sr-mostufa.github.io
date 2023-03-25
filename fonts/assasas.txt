@@ -1,0 +1,16 @@
+<i class="fa-brands fa-html5"></i> ??? html
+
+<i class="fa-brands fa-css3-alt"></i> /// css
+
+<i class="fa-brands fa-bootstrap"></i> // boostrap
+
+<i class="fa-brands fa-laravel"></i> // laravel
+
+<i class="fa-brands fa-php"></i> // php
+
+<i class="fa-brands fa-js"></i> //js
+
+<i class="fa-solid fa-database"></i>  // database
+
+
+
